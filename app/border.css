@@ -1,0 +1,27 @@
+/* .v-border-set{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 100vh;
+    border-radius: 0.375rem;
+    padding: 1rem;
+    position: fixed;
+}
+ .v-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1220px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+} 
+.v-avt{
+    margin-right: 100px;
+    margin-bottom: 8px;
+}  */
+.v-text{
+    font-size: 30px;
+    font-weight: bold;
+}
+.v-style{
+    margin-top: 40px;
+    margin-left: 20px;
+}
