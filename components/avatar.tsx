@@ -5,7 +5,7 @@ import { IconButtonCustomStyles } from "./social";
 export function AvatarDefault() {
   return (
     <>
-      <div className="flex justify-center md:mt-5 md:mr-10">
+      <div className="flex justify-center mt-3 md:mt-5 md:mr-10">
         <div>
           <div className="flex justify-center">
             <Avatar

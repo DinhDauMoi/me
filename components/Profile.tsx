@@ -10,7 +10,7 @@ export default function Profile() {
     <>
       <div className="md:ml-[270px]">
         <div className="w-full flex justify-center mb-4">
-          <div className="block md:flex">
+          <div className="block md:flex mt-20 md:mt-0">
             <AvatarDefault />
 
             <SimpleCard />

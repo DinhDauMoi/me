@@ -4,6 +4,7 @@ import "./border.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { DefaultSidebar } from "@/components/tooltip";
+import {CollapseDefault} from "@/components/Nabar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -21,6 +22,7 @@ export default function RootLayout({
       <body>
         <div>
           <DefaultSidebar />
+          <CollapseDefault/>
         </div>
         <div className={inter.className}>{children}</div>
       </body>
