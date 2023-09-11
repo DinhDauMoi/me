@@ -5,6 +5,8 @@ import { SimpleCard } from "./card";
 import { DefaultTimeline } from "./experience";
 import { DefaultTime } from "./education";
 import { Skills } from "./skills";
+import { SoftSkills } from "./SoftSkills";
+
 export default function Profile() {
   return (
     <>
@@ -36,6 +38,10 @@ export default function Profile() {
         <div className="v-style">
           <div className="v-text">SKILLS</div>
           <Skills></Skills>
+        </div>
+        <div className="v-style">
+          <div className="v-text">SOFT SKILLS</div>
+          <SoftSkills></SoftSkills>
         </div>
       </div>
     </>
