@@ -11,7 +11,7 @@ import {
 
 export function DefaultTimeline() {
   return (
-    <div className="w-[32rem] m-8">
+    <div className="m-8">
       <Timeline>
         <TimelineItem>
           <TimelineConnector />

@@ -11,7 +11,7 @@ import Link from "next/link";
 
 export function DefaultSidebar() {
   return (
-    <List className="w-60 fixed hidden md:block border h-full">
+    <List className="w-60 fixed hidden md:block drop-shadow-md border h-full">
       <div className="mb-2 p-4">
         <Typography variant="h5" color="blue-gray">
           Profile
