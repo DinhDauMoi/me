@@ -4,7 +4,7 @@ import { IconButton } from "@material-tailwind/react";
 import Link from "next/link";
 export function IconButtonCustomStyles() {
   return (
-    <div className="flex gap-4">
+    <div className="flex gap-4 justify-center">
       <Link href={"https://github.com/DinhDauMoi"} target="_blank">
         <IconButton className="rounded bg-[#ffffff] focus:shadow-[#ea4335]/20 active:shadow-[#ea4335]/10">
           <svg
