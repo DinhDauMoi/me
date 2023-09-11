@@ -1,3 +1,4 @@
+"use client";
 import {
   Timeline,
   TimelineItem,
@@ -7,7 +8,7 @@ import {
   TimelineBody,
   Typography,
 } from "@material-tailwind/react";
- 
+
 export function Myproject() {
   return (
     <div className="w-[32rem] m-8">
@@ -22,10 +23,10 @@ export function Myproject() {
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <div>
-                T4TEK COMPANY LIMITED
-                          <p style={{ "color": "gray" }}>Front-end developer</p>
-                          <p>• My main job is designing and building websites</p>
-                          <p>• Server management</p>
+              T4TEK COMPANY LIMITED
+              <p style={{ color: "gray" }}>Front-end developer</p>
+              <p>• My main job is designing and building websites</p>
+              <p>• Server management</p>
             </div>
           </TimelineBody>
         </TimelineItem>

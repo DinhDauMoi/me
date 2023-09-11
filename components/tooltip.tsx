@@ -1,21 +1,12 @@
-import "@/app/border.css";
+"use client";
+
 import {
-  Card,
   Typography,
   List,
   ListItem,
   ListItemPrefix,
-  ListItemSuffix,
-  Chip,
 } from "@material-tailwind/react";
-import {
-  PresentationChartBarIcon,
-  ShoppingBagIcon,
-  UserCircleIcon,
-  Cog6ToothIcon,
-  InboxIcon,
-  PowerIcon,
-} from "@heroicons/react/24/solid";
+import { UserCircleIcon, InboxIcon } from "@heroicons/react/24/solid";
 import Link from "next/link";
 
 export function DefaultSidebar() {

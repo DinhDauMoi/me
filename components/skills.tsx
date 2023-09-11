@@ -1,3 +1,5 @@
+"use client";
+
 import {
   Timeline,
   TimelineItem,
@@ -7,7 +9,7 @@ import {
   TimelineBody,
   Typography,
 } from "@material-tailwind/react";
- 
+
 export function Skills() {
   return (
     <div className=" m-8">
@@ -16,50 +18,42 @@ export function Skills() {
           <TimelineConnector />
 
           <TimelineHeader className="h-3">
-                      <TimelineIcon />
-                      
+            <TimelineIcon />
+
             <Typography variant="h6" color="blue-gray" className="leading-none">
-             PROGRAMMING LANGUAGES
-                      </Typography>
-                      
+              PROGRAMMING LANGUAGES
+            </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <div>
-              <div>
-                • Programming PHP language with Laravel framework
-                </div>
+              <div>• Programming PHP language with Laravel framework</div>
               <div>
                 • Programming the Dart language with the Flutter framework
-                </div>
+              </div>
+              <div>• Works well with C++</div>
               <div>
-                • Works well with C++
-                </div>
+                • Basic understanding of CSS and bootstrap to build effective
+                front-end.
+              </div>
               <div>
-                • Basic understanding of CSS and bootstrap to build effective front-end.
-                </div>
-              <div>
-                • Basic understanding of Javascript for back-end and front-end programming.
-                </div>
+                • Basic understanding of Javascript for back-end and front-end
+                programming.
+              </div>
             </div>
           </TimelineBody>
 
           <TimelineHeader className="h-3">
-                      <TimelineIcon />
-                      
+            <TimelineIcon />
+
             <Typography variant="h6" color="blue-gray" className="leading-none">
-             DATABASES, TOOLKIT
-                      </Typography>
-                      
+              DATABASES, TOOLKIT
+            </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <div>
-              <div>
-                • MySQL and SQL Server.
-                </div>
-              <div>
-                • Works well with Git/Github.
-                </div>
-          </div>
+              <div>• MySQL and SQL Server.</div>
+              <div>• Works well with Git/Github.</div>
+            </div>
           </TimelineBody>
         </TimelineItem>
       </Timeline>

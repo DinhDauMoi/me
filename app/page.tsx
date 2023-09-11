@@ -1,7 +1,5 @@
 "use client";
-import  Profile  from "@/components/Profile";
-export default function Profilee() {
-  return (
-    <Profile></Profile>
-  );
+import Profile from "@/components/Profile";
+export default function Page() {
+  return <Profile />;
 }

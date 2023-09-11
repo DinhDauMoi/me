@@ -1,3 +1,5 @@
+"use client";
+
 import { IconButton } from "@material-tailwind/react";
 import Link from "next/link";
 export function IconButtonCustomStyles() {

@@ -1,6 +1,6 @@
 "use client";
-import "@/app/border.css";
-export default function Project() {
+
+export default function Page() {
   return (
     <>
       <div style={{ marginLeft: "275px" }}>

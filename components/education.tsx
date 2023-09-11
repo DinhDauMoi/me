@@ -1,3 +1,4 @@
+"use client";
 import {
   Timeline,
   TimelineItem,
@@ -7,7 +8,7 @@ import {
   TimelineBody,
   Typography,
 } from "@material-tailwind/react";
- 
+
 export function DefaultTime() {
   return (
     <div className="w-[32rem] m-8">
@@ -22,8 +23,8 @@ export function DefaultTime() {
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <div>
-                CAO THANG TECHNICAL COLLEGE
-                    <p style={{ "color": "gray" }}>GPA: 7.41/10</p>
+              CAO THANG TECHNICAL COLLEGE
+              <p style={{ color: "gray" }}>GPA: 7.41/10</p>
             </div>
           </TimelineBody>
         </TimelineItem>

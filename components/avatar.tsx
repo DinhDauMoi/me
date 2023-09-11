@@ -1,6 +1,6 @@
+"use client";
 import { Avatar } from "@material-tailwind/react";
-import "@/app/border.css";
-import { IconButtonCustomStyles } from "@/components/social";
+import { IconButtonCustomStyles } from "./social";
 
 export function AvatarDefault() {
   return (
