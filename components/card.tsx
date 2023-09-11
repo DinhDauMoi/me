@@ -3,7 +3,7 @@ import { Card, CardBody, Typography } from "@material-tailwind/react";
 
 export function SimpleCard() {
   return (
-    <Card className="m-6 w-96 flex justify-center">
+    <Card className="m-6 md:w-96 w-80 flex justify-center">
       <CardBody>
         <Typography variant="h5" color="blue-gray" className="mb-2">
           Information
