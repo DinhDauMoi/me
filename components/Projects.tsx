@@ -64,7 +64,7 @@ export function Projects() {
           <TimelineHeader className="h-3">
             <TimelineIcon />
             <Typography variant="h6" color="blue-gray" className="leading-none">
-              3/2023 - 10/2022
+              3/2023 - 10/2023
             </Typography>
           </TimelineHeader>
           <TimelineBody className="pb-8">
