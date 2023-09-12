@@ -32,14 +32,15 @@ export function Skills() {
               </div>
               <div>• Works well with C++</div>
               <div>
-                • Basic understanding of CSS and bootstrap to build effective
-                front-end.
+                • Basic understanding of CSS and bootstrap, tailwindcss, jquery, to
+                build effective front-end.
               </div>
               <div>
                 • Basic understanding of Javascript for back-end and front-end
                 programming.
               </div>
               <div>• I have the ability to program the Odoo interface.</div>
+              <div>• Basic React with the Next.js framework.</div>
             </div>
           </TimelineBody>
 
