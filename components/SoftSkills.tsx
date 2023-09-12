@@ -26,10 +26,10 @@ export function SoftSkills() {
           </TimelineHeader>
           <TimelineBody className="pb-8">
             <div>
-              <div>• Resolve problem</div>
-              <div>• Working group</div>
+              <div>• Handling Incidents</div>
+              <div>• Teamwork</div>
               <div>• Determination</div>
-              <div>• Listen to opinions</div>
+              <div>• Listening to Feedback</div>
             </div>
           </TimelineBody>
         </TimelineItem>
