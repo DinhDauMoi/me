@@ -39,6 +39,7 @@ export function Skills() {
                 • Basic understanding of Javascript for back-end and front-end
                 programming.
               </div>
+              <div>• I have the ability to program the Odoo interface.</div>
             </div>
           </TimelineBody>
 

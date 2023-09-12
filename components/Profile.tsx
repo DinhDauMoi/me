@@ -26,6 +26,13 @@ export default function Profile() {
             margin: "0 auto",
           }}
         ></div>
+        <div className="m-4 md:m-4 text-justify">
+          Hello, I&apos;m Quang Vinh, born in 2002, and I specialize in
+          front-end development. I have strong teamwork skills and adapt well to
+          new work environments, always eager to learn new experiences and
+          knowledge. I take my responsibilities seriously, am dynamic, creative,
+          and have an open-minded approach to problem-solving.
+        </div>
         <div className="v-style">
           <div className="v-text">EXPERIENCE</div>
           <DefaultTimeline></DefaultTimeline>
