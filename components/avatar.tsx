@@ -9,7 +9,7 @@ export function AvatarDefault() {
         <div>
           <div className="flex justify-center">
             <Avatar
-              src="/avt.jpg"
+              src="/avt_2.jpg"
               alt="avatar"
               style={{ width: "200px", height: "200px" }}
             />
