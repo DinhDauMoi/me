@@ -34,8 +34,7 @@ export function DefaultTimeline() {
               <p>• Participate in training courses and seminars as guided. </p>
               <p>
                 • Create documentation, slides, and present the work undertaken
-                and research findings. Create documentation, slides, and present
-                the work undertaken and research findings.
+                and research findings.
               </p>
               <p>
                 • Proactively report on work progress according to the
