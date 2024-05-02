@@ -37,6 +37,7 @@ export function Skills() {
               <div>• I have the ability to program the Odoo interface.</div>
               <div>• Basic React with the Next.js framework.</div>
               <div>• Photoshop.</div>
+              <div>• IT helpdesk.</div>
             </div>
           </TimelineBody>
 
